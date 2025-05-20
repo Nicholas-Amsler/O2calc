@@ -64,7 +64,13 @@ A cross-platform React Native app (Expo) for calculating oxygen consumption and 
 3. Push to branch: `git push origin feature/YourFeature`
 4. Open a pull request.
 
-## License
+![License](https://img.shields.io/github/license/Nicholas-Amsler/O2calc)
 
-MIT © GMR O₂ Calculation
-﻿# Amsler O₂ Tool
+Copyright (c) 2025 Amsler Labs
+
+All rights reserved.
+
+This software is proprietary. You may not use, copy, distribute,
+or modify it without express permission from the copyright holder.
+
+This project is licensed under the [Apache License 2.0](LICENSE).
