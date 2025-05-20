@@ -64,7 +64,7 @@ A cross-platform React Native app (Expo) for calculating oxygen consumption and 
 3. Push to branch: `git push origin feature/YourFeature`
 4. Open a pull request.
 
-![License](https://img.shields.io/github/license/Nicholas-Amsler/O2calc)
+## License
 
 Copyright (c) 2025 Amsler Labs
 
