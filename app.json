@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Amsler Labs O₂ Tool",
-    "slug": "amsler-o2-tool",
+    "name": "GMR O2 Calculation",
+    "slug": "gmr-o2-calculation",
     "version": "1.0.0",
     "sdkVersion": "48.0.0",
     "platforms": ["ios", "android","web"],

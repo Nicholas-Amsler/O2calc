@@ -1,0 +1,6 @@
+Copyright (c) 2025 Amsler Labs
+
+All rights reserved.
+
+This software is proprietary. You may not use, copy, distribute,
+or modify it without express permission from the copyright holder.
